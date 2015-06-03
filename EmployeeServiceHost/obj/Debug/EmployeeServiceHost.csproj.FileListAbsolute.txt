@@ -1,0 +1,8 @@
+c:\users\ram.vadranam\documents\visual studio 2012\Projects\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe.config
+c:\users\ram.vadranam\documents\visual studio 2012\Projects\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe
+c:\users\ram.vadranam\documents\visual studio 2012\Projects\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.pdb
+c:\users\ram.vadranam\documents\visual studio 2012\Projects\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeService.dll
+c:\users\ram.vadranam\documents\visual studio 2012\Projects\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeService.pdb
+c:\users\ram.vadranam\documents\visual studio 2012\Projects\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csprojResolveAssemblyReference.cache
+c:\users\ram.vadranam\documents\visual studio 2012\Projects\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.exe
+c:\users\ram.vadranam\documents\visual studio 2012\Projects\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.pdb

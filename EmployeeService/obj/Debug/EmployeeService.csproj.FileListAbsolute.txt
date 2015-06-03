@@ -1,0 +1,6 @@
+c:\users\ram.vadranam\documents\visual studio 2012\Projects\EmployeeService\EmployeeService\bin\Debug\EmployeeService.dll.config
+c:\users\ram.vadranam\documents\visual studio 2012\Projects\EmployeeService\EmployeeService\bin\Debug\EmployeeService.dll
+c:\users\ram.vadranam\documents\visual studio 2012\Projects\EmployeeService\EmployeeService\bin\Debug\EmployeeService.pdb
+c:\users\ram.vadranam\documents\visual studio 2012\Projects\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csprojResolveAssemblyReference.cache
+c:\users\ram.vadranam\documents\visual studio 2012\Projects\EmployeeService\EmployeeService\obj\Debug\EmployeeService.dll
+c:\users\ram.vadranam\documents\visual studio 2012\Projects\EmployeeService\EmployeeService\obj\Debug\EmployeeService.pdb
